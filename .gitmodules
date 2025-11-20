@@ -1,0 +1,3 @@
+[submodule "Service-Registry"]
+	path = Service-Registry
+	url = https://github.com/Deepak-1260/Service-Registry.git
